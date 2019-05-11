@@ -54,7 +54,7 @@ if (is_admin()) { // note the use of is_admin() to double check that this is hap
 if ( !class_exists( 'QA_Core' ) ) {
 
 	// The plugin version
-	define( 'QA_VERSION', '1.4.4' );
+	define( 'QA_VERSION', '1.4.5' );
 
 	// The full url to the plugin directory
 	define( 'QA_PLUGIN_URL', plugin_dir_url(__FILE__) );
