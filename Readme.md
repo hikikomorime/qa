@@ -24,6 +24,5 @@ Toggle controls and set permissions based on user role.
 
 ### Visitor Participation
 
-Lowers the barrier to entry and grow your community faster. Give anonymous visitors the ability to post and answer questions, that queue and publish after they successfully login. Get fine-tuned control over what each user role can do.
-
-~Current Version:1.4~
+Lowers the barrier to entry and grow your community faster. Give anonymous visitors the ability to post and answer questions, that queue and publish after they successfully login. Get fine-tuned control over what each user role can do.5
+~Current Version:1.5~
